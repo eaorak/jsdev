@@ -38,22 +38,22 @@ Ref: [coryhouse/jsdev](https://github.com/coryhouse/javascript-development-envir
 
 ## HTTP Calls
 
-Node
+**Node**
 - http
 - request *
 
-Browser
+**Browser**
 - XMLHttpRequest
 - jQuery
 - Fetch *
 
-Node & Browser
+**Node & Browser**
 - isomorphic-fetch
 - xhr
 - SuperAgent
 - Axios *
 
-Polyfill
+**Polyfill**
 - polyfill.io
 
 ## Mock HTTP
