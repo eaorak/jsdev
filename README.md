@@ -9,7 +9,7 @@ Ref: [coryhouse/jsdev](https://github.com/coryhouse/javascript-development-envir
 # JS Development Stack
 
 ## Development Webservers
-----------------------------
+
 - http-server
 - live-server
 - express *
@@ -17,27 +17,27 @@ Ref: [coryhouse/jsdev](https://github.com/coryhouse/javascript-development-envir
 - browsersync
 
 ## Test Frameworks
-----------------------------
+
 - Jasmine *
 - Mocha
 - Jest
 - Ava
 
 ## Sharing Work-in-progress
-----------------------------
+
 - localtunnel *
 - ngrok
 - surge
 - now
 
 ## Continuous Integration
-----------------------------
+
 - Travis CI *
 - Appveyor
 - Jenkins
 
 ## HTTP Calls
-----------------------------
+
 Node
 - http
 - request *
@@ -57,7 +57,7 @@ Polyfill
 - polyfill.io
 
 ## Mock HTTP
-----------------------------
+
 - Nock
 - Static JSON
 - Create development webserver
@@ -68,7 +68,7 @@ Polyfill
   - Express, etc
 
 ## Plan for Mocking HTTP
-----------------------------
+
 - Declare our schema
   - JSON Schema faker 
 
@@ -81,9 +81,8 @@ Polyfill
   - JSON Server
 
 ## Error Logging
-----------------------------
+
 - TrackJS 
 - Sentry
 - New Relic
 - Raygun
-
